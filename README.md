@@ -1,2 +1,1 @@
-# Tindog
-Clone of tinder
+TinDog Starting Files
